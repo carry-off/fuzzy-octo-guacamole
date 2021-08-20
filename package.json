@@ -1,0 +1,27 @@
+{
+  "name": "javascriptplayground",
+  "version": "1.0.0",
+  "description": "Playground for Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+    }
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiphuonganh/fuzzy-octo-guacamole.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Thi Phuong Anh Nguyenova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiphuonganh/fuzzy-octo-guacamole/issues"
+  },
+  "homepage": "https://github.com/thiphuonganh/fuzzy-octo-guacamole#readme",
+  "devDependencies": {
+    "http-server": "^13.0.0"
+  }
+}
