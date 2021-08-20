@@ -1,0 +1,1 @@
+function changeButtonText() { document.getElementById("demo").innerHTML = "Changed!" };
