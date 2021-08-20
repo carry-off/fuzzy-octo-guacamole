@@ -1,1 +1,4 @@
-function changeButtonText() { document.getElementById("demo").innerHTML = "Changed!" };
+
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
