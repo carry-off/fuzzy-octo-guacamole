@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "http-server"
-    }
-,
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thiphuonganh/fuzzy-octo-guacamole.git"
@@ -22,6 +21,8 @@
   },
   "homepage": "https://github.com/thiphuonganh/fuzzy-octo-guacamole#readme",
   "devDependencies": {
-    "http-server": "^13.0.0"
-  }
+    "http-server": "^13.0.0",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {}
 }
