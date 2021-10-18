@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/thiphuonganh/fuzzy-octo-guacamole#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.0",
+    "eslint": "^8.0.1",
+    "eslint-plugin-react": "^7.26.1",
     "http-server": "^13.0.0",
     "typescript": "^4.4.4"
   },
